@@ -1,0 +1,38 @@
+{
+  "name": "InstaYA",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "esbuild": "^0.15.16",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.4"
+  },
+  "description": "Aplicación web de envíos de paquetes, utilizando las tecnologías nodeJS Express - ReactJs",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleon110/Grupo11_C4_NCR_2254_RETO4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleon110/Grupo11_C4_NCR_2254_RETO4/issues"
+  },
+  "homepage": "https://github.com/jleon110/Grupo11_C4_NCR_2254_RETO4#readme"
+}
